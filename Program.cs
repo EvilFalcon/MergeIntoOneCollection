@@ -14,7 +14,6 @@ namespace MergeIntoOneCollection
             SelectUniqueValue(firstArray,  uniqueNumbers);
             SelectUniqueValue(secondArray,  uniqueNumbers);
             PrintNumbers(uniqueNumbers);
-
         }
 
         private static void SelectUniqueValue(int[] arrayNumbers, List<int> numbers
