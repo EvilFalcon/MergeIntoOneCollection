@@ -29,6 +29,7 @@ namespace MergeIntoOneCollection
                 }
             }
         }
+        
         private static void PrintNumbers(List<int> numbers)
         {
             for(int i = 0;i < numbers.Count; i++)
